@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+	<properties>
+		<entry key="XACMLATTS_PATH">/home/stuser/umu/configPAP/XACMLAtts/</entry>
+		<entry key="POLICY_SET_PATH">/home/stuser/umu/configPAP/continue-a.xml</entry>
+	</properties>
+
