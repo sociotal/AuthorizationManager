@@ -1,4 +1,4 @@
-# AuthorizationManager
+# Authorization Manager
 
 The SocIoTal Authorization scenario consists of the following main entities:
 
